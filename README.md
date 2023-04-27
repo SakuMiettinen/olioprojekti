@@ -19,4 +19,5 @@ Treenausnäytössä listataan siirtämisnäytön tapaan kaikki sijannin perustee
 Taistelunäytössä näytetään muiden näyttöjen tapaan ne lutemonit jotka on siirretty taistelemaan. Näistä tulee valita kaksi lutemonia ja nappia painamalla alkaa taistelu jolloin valitut lutemonit haetaan Storage-luokasta instanssin avulla. Taistelussa lasketaan vuorotellen lutemonien hyökkäykset toisiaan vastaan. Hyökkäysten suuruudessa on  treenaamisen tavoin pieni määrä sattumaa. Voittava lutemon palautetaan takaisin Storage-luokkaan ja sen elämäpisteet palaavat maksimiin sekä kokemuspisteet nousevat yhdellä.
 
 Luokkakaavio: <img width="764" alt="image" src="https://user-images.githubusercontent.com/107469352/234818060-39e534e9-5625-49f8-8e34-5927711e7c1c.png">
+
 Luettavuuden takia Lutemon-luokasta puuttuu get ja set metodit luokan attribuuteille.
