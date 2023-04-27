@@ -7,7 +7,9 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-public class CreateLutemonActivity extends MenuActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class CreateLutemonActivity extends AppCompatActivity {
     private String redLutemonRbName = "Punainen";
     private String greenLutemonRbName = "Vihreä";
     private String blackLutemonRbName = "Musta";

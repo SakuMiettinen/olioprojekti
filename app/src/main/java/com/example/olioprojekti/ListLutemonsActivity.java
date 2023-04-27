@@ -2,10 +2,11 @@ package com.example.olioprojekti;
 
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class ListLutemonsActivity extends MenuActivity {
+public class ListLutemonsActivity extends AppCompatActivity {
 
     private Storage storage;
     private RecyclerView recyclerView;
