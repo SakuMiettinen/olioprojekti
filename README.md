@@ -1,6 +1,6 @@
 # olioprojekti
 
-Esittelyvideo löytyy youtubesta: <a src='https://youtu.be/RF55tzujevI'> Youtube </a>
+Esittelyvideo löytyy youtubesta: <a href='https://youtu.be/RF55tzujevI'> Youtube </a>
 
 Projekti on toteutettu yksin.
 
