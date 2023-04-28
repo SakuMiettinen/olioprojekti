@@ -4,7 +4,7 @@ Esittelyvideo löytyy youtubesta: <a href='https://youtu.be/RF55tzujevI'> Youtub
 
 Projekti on toteutettu yksin.
 
-Perusominaisuuksien lisäksi ekstaominaisuuksia ovat lutemonien omat kuvakkeet, lutemonien listauksessa käytetty recycleview sekä pieni satunnaisuus lutemonien treenauksessa ja taisteluissa.
+Perusominaisuuksien lisäksi ekstraominaisuuksia ovat lutemonien omat kuvakkeet, lutemonien listauksessa käytetty recycleview sekä pieni satunnaisuus lutemonien treenauksessa ja taisteluissa.
 
 Appi avautuu kotinäytölle josta voi siirtyä luomaan, listaamaan, siirtämään, treenaamaan ja taisteluttamaan lutemoneja. 
 
